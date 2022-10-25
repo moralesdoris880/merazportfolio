@@ -15,7 +15,7 @@ root.render(
       <div className="App">  
         <Routes> 
             <Route path="/resume" element={<Resume />} /> 
-            <Route path="/portfolio" element={<Projects />} /> 
+            <Route path="/projects" element={<Projects />} /> 
             <Route path="/about" element={<About />} /> 
             <Route path="/" element={<App />} /> 
         </Routes>

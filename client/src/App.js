@@ -1,12 +1,10 @@
-import { useState, useEffect } from "react";
-
-
 function App() {
   return (
     <div>
       <nav>
         
       </nav>
+      <p>Home Page</p>
     </div>
   );
 }
