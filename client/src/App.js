@@ -1,9 +1,16 @@
+import { NavLink } from "react-router-dom";
+
 function App() {
   return (
     <div>
-     <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+      <div>
+        <p>Meraz Mamun</p>
+        <p>Placement for mini bio until further notice.</p>
+        <button>My Projects</button>
+      </div>
+      <div>
+        <img />
+      </div>
     </div>
   );
 }
